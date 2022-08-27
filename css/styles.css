@@ -124,6 +124,8 @@ img{
 
 .contact-header{
     color: var(--text-color);
+    display: flex;
+    align-items: center;
 }
 
 .mail{
